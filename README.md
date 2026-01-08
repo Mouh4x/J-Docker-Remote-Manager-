@@ -3,8 +3,8 @@
 Projet GTR 3 : gestion distante d'un moteur Docker via une architecture distribuée Java (daemon serveur + client CLI).
 
 # AUTEURS DU GROUPE :
-MOUHAMMAD Hassani Hamadi
-DJIGUEMDE Norbert
+- MOUHAMMAD Hassani Hamadi
+- DJIGUEMDE Norbert
 
 ## 1. Objectif du projet
 
